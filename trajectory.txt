@@ -1,0 +1,3 @@
+search
+open_document
+summarize

@@ -1,0 +1,1 @@
+[{"step": 1, "action": "search", "result": "Found 5 documents"}, {"step": 2, "action": "open_document", "result": "Document opened"}, {"step": 3, "action": "summarize", "result": "Summary generated"}, {"step": 4, "action": "finish", "result": "Task completed"}]
